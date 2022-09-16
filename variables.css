@@ -1,0 +1,12 @@
+:root 
+{
+    --clr-primmary:hsl(25, 97%, 53%);
+    --clr-white:hsl(0, 0%, 100%);
+    --clr-grey-light:hsl(217, 12%, 63%);
+    --clr-grey-medium: hsl(213.9, 19.7%, 22.9%);
+    --clr-darkblue: hsl(213, 19%, 18%);
+    --clr-darkblue-darker:hsl(216, 12%, 8%);
+
+    --fnt-primary: 'Overpass', sans-serif;
+}
+
